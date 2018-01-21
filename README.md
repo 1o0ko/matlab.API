@@ -1,5 +1,5 @@
 ---------------
-#mForex Matlab API
+# mForex Matlab API
 
 The goal of mForex.Matlab API is to provide flexible, asynchronous programming model for 
 Matlab based on **mForex API** for forex trading.
